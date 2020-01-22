@@ -10,6 +10,7 @@ A minimal docker container that contains all you need to:
 * Information on how to install [Docker](https://www.docker.com/)
 * Based on Python (3.7-slim-stretch) official Image [python:3.7-slim-stretch](https://hub.docker.com/_/python/) 
 * [LTS version of `node.js`](https://hub.docker.com/_/node)
+* Information about [`codeql`](https://securitylab.github.com/tools/codeql)
 
 ## Installation
 
