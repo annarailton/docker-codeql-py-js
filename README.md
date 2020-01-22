@@ -16,7 +16,7 @@ A minimal docker container that contains all you need to:
 Pull the image from the Docker repository.
 
 ```bash
-docker pull annarailton/node-lts-python3.7-slim-codeql
+docker pull annarailton/codeql-py-js
 ```
 
 ## Build
@@ -29,5 +29,5 @@ docker build -t annarailton/node-lts-python3.7-slim-codeql .
 
 Or 
 ```bash
-docker build -t annarailton/airflow_codeql https://github.com/annarailton/docker-codeql-py-js.git
+docker build -t annarailton/codeql-py-js https://github.com/annarailton/docker-codeql-py-js.git
 ```

@@ -1,7 +1,7 @@
-# VERSION 1.10.6
+# VERSION 0.1
 # AUTHOR: Anna Railton, @annarailton
 # DESCRIPTION: Container to use codeQL to build JavaScript and Python projects
-# BUILD: docker build --rm -t annarailton/node-lts-python3.7-slim-codeql .
+# BUILD: docker build --rm -t annarailton/codeql-py-js .
 # SOURCE: https://github.com/annarailton/docker-codeql-py-js
 
 FROM annarailton/node-lts-python3.7-slim
